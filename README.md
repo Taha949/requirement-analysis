@@ -107,7 +107,13 @@ This process ensures that all stakeholders have a clear and mutual understanding
 **Benefits:**
 - Clear visualization of system functionalities.  
 - Helps identify and organize requirements.  
-- Improves communication between stakeholders and developers.  
+- Improves communication between stakeholders and developers.
+
+**Booking Management System – Use Case Diagram**
+
+The diagram below illustrates the primary actors and use cases for the Booking Management System.
+<img width="965" height="636" alt="image" src="https://github.com/user-attachments/assets/8d0b212f-e2bd-44fc-9c20-059053713146" />
+
 
 ---
 
